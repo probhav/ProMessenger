@@ -9,7 +9,7 @@ Register/ Login your account using your email Id and Chat endlessly
 
 <br>
 
-<img src="pics/ InkedCapture_LI" width=250>
+<img src="pics/InkedCapture_LI.jpg" width=600>
 <img src="pics/q (5).jpeg" width=250>
 <img src="pics/q (6).jpeg" width=250>
 <img src="pics/q (1).jpeg" width=250>
